@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <style>
+    .heading{
+        color: purple;
+    }
+   </style>
+
+   
+</head>
+<body>
+    <h1 class="heading">Welcome to jaipur</h1>
+
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga atque tenetur amet sint minima odit? Voluptas architecto exercitationem nostrum eius!</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit iure possimus eveniet magnam doloribus quisquam, modi adipisci vero cumque odit, voluptas suscipit totam odio, quibusdam rerum obcaecati nostrum. Doloribus, ut?</p>
+
+    <footer>I am footer</footer>
+
+
+
+</body>
+</html>
