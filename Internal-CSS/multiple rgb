@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <style>
+        #firstPara{
+            background-color: yellow;
+        }
+
+        #secondPara{
+            background-color: hsla(0, 69%, 45%, 0.353);
+        }
+
+        #thirdPara{
+            background-color: rgb(90, 80, 70);            
+        }
+
+
+   </style>
+   
+</head>
+<body>
+   <h1>Welcomr to HTML</h1>
+
+   <p id="firstPara">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam quas quis animi saepe voluptatum perspiciatis sed, et nostrum error beatae! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam tenetur iusto labore aperiam dolorem dolorum praesentium repellendus aliquid, vitae, eum non illo eligendi amet necessitatibus dignissimos voluptatem magni perspiciatis odio! Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam tenetur nemo distinctio mollitia amet nihil rerum neque beatae quasi suscipit. Modi sint ullam voluptatibus ipsam velit dicta soluta minima ratione.</p>
+
+   <p id="secondPara">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit eveniet voluptatem placeat nemo? Totam ullam minus perspiciatis deleniti. Libero ex magnam animi, accusantium eaque quia excepturi provident aut similique deleniti? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime eius eveniet accusantium aspernatur cum est error ex sequi ipsam placeat reiciendis facilis, sint dolores quis veniam ipsa magnam repudiandae id exercitationem quisquam? Saepe reprehenderit sit praesentium consequuntur. Maxime ipsa est vero doloremque doloribus velit cupiditate distinctio, fugiat quia, omnis maiores tenetur.</p>
+
+   <p id="thirdPara">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste blanditiis cum nemo, optio, officiis doloremque ut repellat accusantium enim sunt impedit fugit repudiandae repellendus quod obcaecati fugiat quaerat? Nobis enim culpa dolor modi voluptatibus quas doloremque accusantium eius laudantium cum. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum aliquid quisquam numquam praesentium eveniet asperiores autem earum laboriosam ad tempora illum perferendis, enim dolore mollitia harum error assumenda nisi laborum.  </p>
+
+
+</body>
+</html>
