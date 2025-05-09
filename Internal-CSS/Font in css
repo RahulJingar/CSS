@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <style>
+
+    p{
+        font-style: italic;         /*jo paragraph main word hain vo italic ho jaayenge*/
+        font-size: 20px;            /*jo bhi text hain uska size 20px ho jaayega*/
+        font-family: cursive;       /*jo bhi text hain vo sb kch cursive format main aa jaayenge*/
+        font-weight: 100;           /*jo bhi text hain patla ya bold hone ki property hain*/
+        line-height: 30px;          /*jo bhi text hain unki lines ke bich kitna diffrence hona chahiye vo hain*/
+    }
+
+   </style>
+   
+</head>
+<body>
+   <h1>Welcomr to HTML</h1>
+
+   <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam quas quis animi saepe voluptatum perspiciatis sed, et nostrum error beatae!</p>
+
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit eveniet voluptatem placeat nemo? Totam ullam minus perspiciatis deleniti. Libero ex magnam animi, accusantium eaque quia excepturi provident aut similique deleniti?</p>
+
+   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste blanditiis cum nemo, optio, officiis doloremque ut repellat accusantium enim sunt impedit fugit repudiandae repellendus quod obcaecati fugiat quaerat? Nobis enim culpa dolor modi voluptatibus quas doloremque accusantium eius laudantium cum.</p>
+
+
+
+</body>
+</html>
