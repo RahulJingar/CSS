@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <title>Sticky Header Example</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    /* Sticky Header */
+    .header {
+      position: sticky;
+      top: 0;
+      background-color: #333;
+      color: white;
+      padding: 15px 20px;
+      font-size: 20px;
+     
+    }
+
+    /* Page Content */
+    .content {
+      padding: 20px;
+      line-height: 1.6;
+      height: 10000px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+   that is a sticky header
+  </div>
+
+  <div class="content">
+    <p>item of sticky</p>
+    
+    <!-- अतिरिक्त सामग्री जोड़ें ताकि स्क्रॉलिंग प्रभाव दिखे -->
+    <p>maximum item 1...</p>
+    <p>maximum item 2...</p>
+    <p>maximum item 3...</p>
+    <p>maximum item 4...</p>
+    <p>maximum item 5...</p>
+    <p>maximum item 6...</p>
+    <p>maximum item 7...</p>
+    <p>maximum item 8...</p>
+    <p>maximum item 9...</p>
+    <p>maximum item 9...</p>
+      </div>
+
+</body>
+</html>
